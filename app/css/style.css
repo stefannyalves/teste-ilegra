@@ -1,0 +1,25 @@
+body {
+	background-color: #f6f7f9 !important;	
+}
+
+.card{
+	float: left;
+	text-align: justify;
+	height: 560px;
+	padding-top: 10px;
+}
+
+.card-conteudo{
+	padding: 16px;
+	text-align: justify;
+}
+
+.default-filme{
+	width:40px;
+	height:40px;
+}
+
+ul {
+ list-style-type: none;
+ padding: 0;
+ } 	
